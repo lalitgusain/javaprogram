@@ -1,4 +1,5 @@
 ram ram ram ram 
+<<<<<<< HEAD
 
 
 kaam kaam
@@ -6,3 +7,7 @@ kaam
 kaam
 kaam
 
+=======
+shaam
+shaam 
+>>>>>>> b1
