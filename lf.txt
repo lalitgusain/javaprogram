@@ -14,8 +14,23 @@ vroom
 room
 room
 alfdsad
+<<<<<<< HEAD
 sdfsdf
 adf
 sd
 f
 sf
+=======
+asf
+s
+a
+f
+sdf
+sdf
+asd
+f
+s
+fs
+df
+soin u 
+>>>>>>> kk
